@@ -8,11 +8,9 @@
 - Cursando Sistema de Informação na Universidade Estadual do Mato Grosso do Sul - UEMS.
 
 
-<br>
-
 ## 🧠 &nbsp;Conhecimento 
 
-<div align="center"><br>
+<div align="center" style="gap: 10px;"><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,10 +23,9 @@
 <br>
 
  <div align="center">
-   <a href="https://github.com/Irvna">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irvna&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvna&layout=compact&langs_count=6&theme=cobalt"/>
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
 
 <br>
@@ -43,7 +40,7 @@
 <br>
 <br>
 
-## 🤩 &nbsp;Pra conteúdo sobre programação me segue nas redes abaixo!
+## 🤩 &nbsp;Mídias Sociais!
 
 <br>
 

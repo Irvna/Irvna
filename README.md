@@ -3,17 +3,18 @@
 <br>
 
 - Dev Jr, inciando carreira na área de tecnologia, sempre buscando mais conhecimento. 💻
-- Ensino Médio no instituto Federal do Mato Grosso do Sul - IFMS. ❤️
+- Ensino Médio Técnico no Instituto Federal do Mato Grosso do Sul - IFMS. ❤️
 - Técnica em Informática para Internet. 👩‍💻
 - Cursando Sistema de Informação na Universidade Estadual do Mato Grosso do Sul - UEMS.
 
 
 ## 🧠 &nbsp;Conhecimento 
 
-<div align="center" style="gap: 10px;"><br>
+<div alt="linguagens de programação conhecidas" align="center" style="gap: 10px;"><br>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">

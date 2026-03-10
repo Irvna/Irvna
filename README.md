@@ -6,6 +6,7 @@
 - Ensino Médio Técnico no Instituto Federal do Mato Grosso do Sul - IFMS. ❤️
 - Técnica em Informática para Internet. 👩‍💻
 - Cursando Sistema de Informação na Universidade Estadual do Mato Grosso do Sul - UEMS.
+- Apaixonada na área de tecnologia, educação e acessibilidade.
 
 
 ## 🧠 &nbsp;Conhecimento 

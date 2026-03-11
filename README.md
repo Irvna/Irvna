@@ -27,7 +27,15 @@
 <div align="center">
    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irvna&layout=compact&langs_count=7&theme=transparent"/>
   <br>
-   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Irvna&show_icons=true&theme=transparent)"/>
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Irvna&show_icons=true&theme=transparent"/>
+</div>
+
+## 🐍 &nbsp;Meus commits
+
+<div align="center">
+
+![Snake animation](https://github.com/Irvna/Irvna/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <br>

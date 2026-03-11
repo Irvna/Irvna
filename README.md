@@ -30,7 +30,7 @@
    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Irvna&show_icons=true&theme=transparent"/>
 </div>
 
-## 🐍 &nbsp;Meus commits
+## ⏳ &nbsp;Meus commits
 
 <div align="center">
 
